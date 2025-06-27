@@ -1,6 +1,3 @@
-  // int sum = 0;
-    // for(int i =0; i < n; i++){
-    //     sum += arr[i];
-    //    cout << sum << " ";
-   
-    // }
+  // int x;
+        // cin >> x;
+        // cout << x; 
